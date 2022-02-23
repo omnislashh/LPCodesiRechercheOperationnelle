@@ -4,6 +4,8 @@ Choix de python 3
 Modules: orTools (GoogleSuite)  
 Ressources: https://developers.google.com/optimization/assignment/assignment_example  
 
+main file: fonction-eval.py
+
 1. Travail dans une seule fonction main() dans un premier tps
 2. ToDo: Créer les fonctions Eval(O) + Glouton séparée, et la fonction main devrait appeler ces sous-fonctions
 3. Le lecteur de fichier récupère un seul fichier "en dur" pour l'instant

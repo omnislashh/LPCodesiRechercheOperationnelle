@@ -158,7 +158,7 @@ def main():
     #     fout.writelines(data[2:])
 
     # traitement des fichiers sources 
-    with open('B11.txt') as my_file:
+    with open('exemple1.txt') as my_file:
         for line in my_file:
             line = line.rstrip('\n')
             # line = line[:-1]    #delete last space

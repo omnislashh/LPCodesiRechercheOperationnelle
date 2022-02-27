@@ -15,3 +15,5 @@ main file: fonction-eval.py
 7. Le poids fait référence au prix
 8. Une proposition avec le prix opti des fournisseurs optimum est proposé en commentaire :  
 ```# poids_max = sum(word_dict.values())```
+9. Pour glpk:  
+https://martin-thoma.com/how-to-use-glpk/#assignment-problem

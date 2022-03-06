@@ -1,5 +1,8 @@
 ## Tests pour le sujet de recherche operationnelle
 ***
+Rapport:  
+https://docs.google.com/document/d/1429uwLQFg0-aLKBkBqeH3V5PWm2CqgwNbrPtzFMbyn8/edit  
+***
 Choix de python 3  
 Modules: orTools (GoogleSuite)  
 Ressources: https://developers.google.com/optimization/assignment/assignment_example  

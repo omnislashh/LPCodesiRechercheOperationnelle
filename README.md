@@ -1,7 +1,7 @@
 ## Tests pour le sujet de recherche operationnelle
 ***
 Rapport:  
-https://docs.google.com/document/d/1429uwLQFg0-aLKBkBqeH3V5PWm2CqgwNbrPtzFMbyn8/edit  
+https://docs.google.com/document/d/1429uwLQFg0-aLKBkBqeH3V5PWm2CqgwNbrPtzFMbyn8/edit?usp=sharing  
 ***
 Choix de python 3  
 Modules: orTools (GoogleSuite)  

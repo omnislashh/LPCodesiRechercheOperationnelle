@@ -20,3 +20,7 @@ main file: fonction-eval.py
 ```# poids_max = sum(word_dict.values())```
 9. Pour glpk:  
 https://martin-thoma.com/how-to-use-glpk/#assignment-problem
+
+```
+glpsol -m lineaire.mod
+```
